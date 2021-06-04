@@ -21,6 +21,6 @@ click print out. You will get a print out panel, select any format(pdf,Xp) to sa
 # Is it can be used in any destop/laptop?
 Yes, it can be used in any desktop / laptop.
 
-This is the download link: https://drive.google.com/u/0/uc?id=1eSAbo_fn9ut7YmzaWJ0JS3AU90lkjTJ1&export=download
+This is the download link: file:///C:/Users/PRINCE/Desktop/problms/Health_Card_Generator/Health%20Card%20generator/Health%20Card%20generator.exe
 
 The software is virus free, you can download and use it with full trust.
