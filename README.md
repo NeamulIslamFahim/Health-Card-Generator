@@ -23,6 +23,5 @@ Yes, it can be used in any desktop / laptop.
 
 This is the download link: 
 
-file:///C:/Users/PRINCE/Desktop/problms/Health_Card_Generator/Health%20Card%20generator/Health%20Card%20generator.exe
-
+https://drive.google.com/drive/u/0/folders/16bHuVYtw5geyX_ySKF96005Obrfvja99
 The software is virus free, you can download and use it with full trust.
