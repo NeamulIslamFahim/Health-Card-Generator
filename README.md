@@ -24,7 +24,6 @@ Yes, it can be used in any desktop / laptop.
 This is the download link: 
 
 
-
-https://doc-00-74-docs.googleusercontent.com/docs/securesc/v2s4t7s6k7gl6oqef7c00uggf0ja813e/59jdfql3t3p2i6u49vmlbsslc3kv15o9/1622899200000/02781822605317353355/01781016322102075579Z/1eSAbo_fn9ut7YmzaWJ0JS3AU90lkjTJ1?e=download&nonce=745cck9bvng3c&user=01781016322102075579Z&hash=aorshd7r9s9vrjcfvvo7bimumpck5cfs
+https://drive.google.com/u/0/uc?id=1eSAbo_fn9ut7YmzaWJ0JS3AU90lkjTJ1&export=download
 
 The software is virus free, you can download and use it with full trust.
