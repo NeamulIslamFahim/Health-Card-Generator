@@ -26,5 +26,4 @@ This is the download link:
 https://doc-00-1k-docs.googleusercontent.com/docs/securesc/omhhmud5p1m2rtli68udvdvsndisbrt4/ver13vr90s4djo5fsvjna8l1i1c1fpr7/1622883150000/02781822605317353355/02781822605317353355/1eSAbo_fn9ut7YmzaWJ0JS3AU90lkjTJ1?e=download&authuser=0&nonce=c0he570njlvke&user=02781822605317353355&hash=7j0ra4vqu8tnpkhnsma7avsaqsnqbsml
 
 
-
 The software is virus free, you can download and use it with full trust.
