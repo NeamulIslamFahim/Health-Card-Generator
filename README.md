@@ -23,5 +23,5 @@ Yes, it can be used in any desktop / laptop.
 
 This is the download link: 
 
-https://drive.google.com/drive/u/0/folders/16bHuVYtw5geyX_ySKF96005Obrfvja99
+
 The software is virus free, you can download and use it with full trust.
