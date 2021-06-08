@@ -1,6 +1,4 @@
 
-https://user-images.githubusercontent.com/71332807/121225790-b36a8f00-c8ab-11eb-8a46-30b1e46130b7.mp4
-
 # Health-Card-Generator
 
 Health Card Generator is a software by which you can generate a health card of any person.
@@ -20,6 +18,9 @@ By using this software you can easily create a health card and use it for your m
 # How to use it?
 Firstly, you need to download the software. Then you need to open it and give your information. After that click "Enter" button to view the card both backside and front side. Then
 click print out. You will get a print out panel, select any format(pdf,Xp) to save on your desktop/laptop. And then you can print out and frame it and use it.
+
+https://user-images.githubusercontent.com/71332807/121225790-b36a8f00-c8ab-11eb-8a46-30b1e46130b7.mp4
+
 
 # Is it can be used in any destop/laptop?
 Yes, it can be used in any desktop / laptop.
