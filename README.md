@@ -25,9 +25,7 @@ https://user-images.githubusercontent.com/71332807/121225790-b36a8f00-c8ab-11eb-
 # Is it can be used in any destop/laptop?
 Yes, it can be used in any desktop / laptop.
 
-This is the download link: 
 
 
-https://drive.google.com/u/0/uc?id=1eSAbo_fn9ut7YmzaWJ0JS3AU90lkjTJ1&export=download
 
-The software is virus free, you can download and use it with full trust.
+
